@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 	"os"
-	"github.com/qiniu/iconv"
+	"github.com/zieckey/iconv"
 )
 
 func main() {

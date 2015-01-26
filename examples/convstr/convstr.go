@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/qiniu/iconv"
+	"github.com/zieckey/iconv"
 )
 
 func main() {
